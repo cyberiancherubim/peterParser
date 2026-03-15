@@ -7,7 +7,7 @@
 Clone the repository and run the setup script:
 
 ```powershell
-git clone https://github.com/gnotree/peterParser.git
+git clone https://github.com/cyberiancherubim/peterParser.git
 cd peterParser
 .\setup.ps1
 ```
